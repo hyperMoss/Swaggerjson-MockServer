@@ -1,8 +1,10 @@
-# 脱裤子放屁mock serve
+# Swaggerjson-MockServer
+
+一个获取接口文档提供的json，再自定义的MockServer
 
 ## 用例
 
-// TODO
+查看example
 
 ## 方法
 
